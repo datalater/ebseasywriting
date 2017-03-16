@@ -9,4 +9,5 @@
 ## 스트리밍을 다 들은 후
 1. Read&Think를 다시 번역해 본다.
 2. Read&Think의 번역 패턴을 만든다.
-2. dictation한 문장을 Korean으로 번역 후 다시 English로 번역해본다.
+3. Read&Think를 한 문장씩 shadowing한다.
+4. dictation 했던 문장을 Korean으로 번역 후 다시 English로 번역해본다.
