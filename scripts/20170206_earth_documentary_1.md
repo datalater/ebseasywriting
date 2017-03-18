@@ -1,4 +1,4 @@
-# Earth Documentary More Popular than Reality show
+# Earth Documentary More Popular than Reality show (1/6)
 
 ### Read & Think 한글
 1) BBC에 따르면, <살아있는 지구 2>는 리얼리티 TV 프로인 [더 X 팩터]보다 더 많은 젊은 시청자들을 끌어들였다.  
@@ -40,3 +40,5 @@
 4) "동물의 삶에 들어가서" "Let's get into the lives of the amials" "그들의 관점으로 보자" "and see from their perspective" 라고 시리즈 프로듀서인 마이크 건튼이 말했다. series producer Mike Gunton said.
 
 5) 그에 더해, in addition 기술의 발전과 한스 짐머의 음악이 improvements in technology and the music of Hans Zimmer 기여했다고 한다. are credited for 젊은 시청자들을 끌어들이는 데 attracting young viewers.
+
+### Dictation
