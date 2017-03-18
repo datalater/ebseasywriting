@@ -1,6 +1,6 @@
 # About Bilingualism 3/3
 
-#### The Text
+### Read & Think 한글
 
 1) 셋째는 "성인이 되어서도 여전히 외국어를 배울 수 있다."이다.  
 2) 어느 연구에서 어른들이 직면한 문제는 생물학적인 것이 아니라 지각에 의한 것이라 한다.  
@@ -10,7 +10,7 @@
 
 ## 스트리밍을 다 들은 후
 
-### Read & Think
+### Read & Think 번역
 1. The third is "you can still learn a foreign language as an adult."
 2. A study states that the problmes adults face are percpetual, not biolgical.
 3. The fourth is "bilingual people do better academically," and the fifth is "bilingual people also do better in other areas of cognitive functioning."
@@ -18,7 +18,7 @@
 5. Nevertheless, it's a fascinating read for those interested in lanaguage learning.
 
 
-### Read & Think Pattern
+### Read & Think 패턴
 1) 셋째는 "성인이 되어서도 여전히 외국어를 배울 수 있다." 이다.
 - 셋째는 | The third is
 - (하지만 너가) 여전히 배울 수 있다, 외국어를| but you can still learn a foreign lanaguage
