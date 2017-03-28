@@ -19,48 +19,68 @@
 
 6. dictation 했던 문장을 Korean으로 번역 후 다시 English로 번역해본다.
 
-## 3. 마크다운 format (복사해서 붙여넣어 작성한다)
+## 3. 마크다운 format (복사해서 붙여 넣어 작성한다)
 
 ---
 # Title (current/total)
 
+### Words explained
+
+### Expressions
+##### 1. english 한글
+    - 예문
+
 ### Read & Think 한글
-1)  
-2)  
-3)  
-4)  
-5)  
-### Read & Think 한영번역 try
-1)  
-2)  
-3)  
-4)  
-5)  
-### Read & Think 한영번역 정답
-1)  
-2)  
-3)  
-4)  
-5)  
+1. .
+2. .
+3. .
+4. .
+5. .
+
+### Read & Think 한영번역 first try
+1. .
+2. .
+3. .
+4. .
+5. .
+
+### Read & Think 한영번역 second try & answers
+1. . second try
+        - answers
+    > [TIP]
+
+2. .
+3. .
+4. .
+5. .
+
+
+
+### Extra Thought 오늘 배운 표현 응용하기
+##### quetsion
+
 ### Read & Think 영한번역 try
-1)  
-2)  
-3)  
-4)  
-5)  
+1. .
+2. .
+3. .
+4. .
+5. .
+
 ### Read & Think 한영번역 패턴
-1)
+1. .
+2. .
+3. .
+4. .
+5. .
 
-2)
 
-3)
-
-4)
-
-5)
 ### Dictation
 
 ---
 
 ## 4. 마크다운 주의사항
 1. angle bracket(<>)는 대괄호로 대체해서 쓴다. 마크다운 문법에서는 angle brackets는 피해야 한다.
+
+
+## 5. 기타 참고자료
+1. 가장 쉬운 영영사전 dictionary.cambridge.org/dictionary/english-korean/moon
