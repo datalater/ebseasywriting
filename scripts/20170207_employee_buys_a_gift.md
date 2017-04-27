@@ -1,5 +1,27 @@
 # Employee Buys a Gift
 
+## II. Learn by myself
+
+### Read & Think shadowing & pattern
+1. A boy who came to a Best Buy store / every day for two months / to play a WiiU / was surprised by employees. 어보이 후케임투 어 베스트바이스토어 / 에브리 데이 포 투 머언쓰 / 투 플레이여 위유 / 워써프라이즈읃 바이 임플오이스.
+2. "I'm being serious, it's your Christmas present," an employee said / while trying to hand the stunned boy / the game console. 아임 빙 씨으리어스, 이츠 유얼 크리스마쓰 프레즌ㅌ, 애넘플오이 쎄에드 / 왈 트라잉트 핸더 스턴드 보이 / 더 게임 컨쏠.
+3. Another employee posted a video of the two on YouTube. / 어나덜임플오이 포스티더 비디어 브더투 온 유튜읍.
+4. The boy was afraid to walk home with the gift in hand, 더 보이 워저프레이드 투 워크홈 위더 기프틴 핸드, So an employee drove him home and walked him to the buliding. 쏘어님플오이 드로브힘 홈 앤 워억팀 투더 빌딩.
+5. "I just saw a bit of myself in him," the employee told WABC. 아이 저씃쏘우 어비럽 마이쎌프인힘, 더 임플오이 톨드 떠뷰에이비씨.
+
+
+### Review patterns
+Korean | English
+--- | ---
+두 달 동안 매일 같이 | everyday for two months
+어느 베스트바이 가게에 들렀던 소년 | a boy who came to a Best Buy store
+
+
+### Summary of what I've learned
+
+
+## I. Lecture note
+
 ### Words explained
 1. store : a place that sells items. If they sell books, then you say a bookstore.
 2. month : one of the twelve periods of time that a year is divided into
@@ -63,31 +85,15 @@
 [JMC] Yes. I play games with my smartphone. Especially, I play games when I was on my way to the school and home. It takes almost two hours to get the place, so I need something to play. And playing games is not only fun but also helps to get over the boring time.
 > 왜 하는지만 썼고 뭘 하는지는 안 씌어 있음. 그래서 MISORANG 답변은 매우 생생한데 반해 내 것은 매우 무미건조함.
 
-[MISORANG] I do. Do you know Sims? Not Sim city. It's from the same parent company. But Sims is like playing with dolls for adults. So you build and control a neighborhood of virtual people and they're called Sims. And it's up to series four now. But I was completely addicted to them like at schools. So at one point, I said, when I was studying to get into a dental school, I said, you know, "Is it going to be dentistry or is it going to be Sims?" So I actually about three weeks off(?) so I had bought the new CD. I had to snap it in half because I was just on it 24/7. I have a very addictive personality so I try to stay away from them. Once I get into it, it's, that's what I'll be doing for the next a few weeks.
+[MISORANG] I do. Do you know Sims? Not Sim city. It's from the same parent company. But Sims is like playing with dolls for adults. So you build and control a neighborhood of virtual people and they're called Sims. And it's up to series four now. But I was completely addicted to them like at schools.
+So at one point, I said, when I was studying to get into a dental school, I said, you know, "Is it going to be dentistry or is it going to be Sims?" So I actually about three weeks off(?) so I had bought the new CD. I had to snap it in half because I was just on it 24/7. I have a very addictive personality so I try to stay away from them. Once I get into it, it's, that's what I'll be doing for the next a few weeks.
 
 
 [Eugene] Baduk(go) on my cell phone. With our people through a cell phone. And there's a friend, I have a friend in Daegu. He and I are really good friends, which means we like to beat up each other. Um, so he and I play often in our cell phone.
+
 [MISORANG] Just between you and me, who is better?
-[Eugene] Oh, he is better. But his Baduk style is really really boring. I'm agreesive, somewhat creative, somewhat dangerous, risk taker in terms of Baduk, which is why he likes to play with me. We're like um sword and shield. A spear and a shield. The downside of it is because it's on your cell phone, I think my vision has deteriorated.
+
+[Eugene] Oh, he is better. But his Baduk style is really really boring. I'm agreesive, somewhat creative, somewhat dangerous, risk taker in terms of Baduk, which is why he likes to play with me. We're like, um, sword and shield. A spear and a shield. The downside of it is because it's on your cell phone, I think my vision has deteriorated.
+
 [MISORANG] How many hours do you spend for your vision to be affected?
 [Eugene] Not that much but I don't think it's the hours. How many could be the hours. But it might, I think, it's the intensity.
-
-
-### Read & Think 영한번역 try
-1. WiiU를 하기 위해 두 달 동안 매일같이 한 베스트 바이 가게에 왔던 소년이 직원들에게 놀라움을 선사받았다.
-2. 한 직원이 어리벙벙한 소년에게 게임 기기를 주면서 "나 지금 진지해, 이거 네 크리스마스 선물이야."라고 말했다.
-3. 또 다른 직원이 그 두 사람을 담은 영상을 유튜브에 올렸다.
-4. 그 소년은 집에 선물을 들고 가는 것이 두려웠고 그래서 한 직원이 그를 집까지 태워다 주고 빌딩까지 걸어서 갔다.
-5. "그에게서 내 자신이 얼핏 보였어요."라고 그 직원은 WABC에 말했다.
-
-### Read & Think 한영번역 패턴
-1. .
-2. .
-3. .
-4. .
-5. .
-
-
-### Review questions
-
-### Summary of what I've learned 
