@@ -38,6 +38,27 @@
 4. 1999년에 설립된 그 회사는 2014년에 이름을 엑소스로 바꿨다.
 5. 돈이 많은 비선수들도 프로 선수들과 나란히 운동하기 위해 그 헬스장에 등록할 수 있다.
 
+### Q. What do you think the media training is about?
+
+#### Misorang
+
+1. Well, I must confess this is a first time I'm hearing this term. (Same for me)
+2. So just guessing, I'm imagining that there are cameras in front of me. (Because of the word 'media'?)
+3. Yeah, as I work out, and after the session, the camera feeds into a software that will diagnose whether my posture is right, you know, whether my angles are correct, whether I'm putting equal amount of weight on my left foot and my right foot, and thinkgs like that.
+4. That's what I imagined.
+5. Am I right?
+
+#### Eugene
+
+1. Not exactly.
+2. Anyway, the media training, so I looked it up as well. I didn't know what it meant.
+3. And basically, in case of America, the professional athletes, they give a lot of interviews.
+4. Especially, right after the game, and when their adrenaline is pumping, which is why they kind of make a lot of mistakes because their adrenaline is pumping.
+5. So that's probably why you have kind of a media training so that you coud, the athletes could interview better.
+
+
+---
+---
 ---
 
 ## 5. The Most Expensive Gyms in the World (3/3) :: Text
@@ -133,15 +154,21 @@ Actually, I've never heard of it before. But in my opinion, I guess it's a kind 
 
 #### Misorang
 
-1. Well, I must confess this is a first time I'm hearing this English term.
-2. So just guessing, I'm imagining there are cameras in front of me.
-(Because the word 'media')
-3. Yeah, as I work out.
-4. And after the session, the camera feeds into a software that will diagnose wheter my posture is right, you know, whether my angles are correct, whether I'm putting equal amount of weight on my left foot and my right foot, and things like that.
+1. Well, I must confess this is a first time I'm hearing this term. (Same for me)
+2. So just guessing, I'm imagining there are cameras in front of me. (Because of the word 'media'?)
+3. Yeah, as I work out, and after the session, the camera feeds into a software that will diagnose wheter my posture is right, you know, whether my angles are correct, whether I'm putting equal amount of weight on my left foot and my right foot, and things like that.
 5. That's what I imagined.
-6. Am I right? 
+6. Am I right?
 
-@@@ resume : `17:40~`
+#### Eugene
+
+1. Not exactly.
+2. Anyway, media trainings, I looked it up as well. I didn't know what it meant.
+3. Um, basically in case of America, the professional athletes, they give a lot of interviews.
+4. Especially, right after the game, and when their adrenaline is pumping, which is why they kind of make a lot of mistakes because their adrenaline is pumping.
+5. So that's probably why you have these kind of a media training so that you could, the athletes could interview better.
+
+**끝.**
 
 ---
 
