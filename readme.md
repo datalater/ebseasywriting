@@ -61,7 +61,102 @@
 ---
 ---
 
-## 5. The Most Expensive Gyms in the World (3/3) :: Text
+## 6. Real Estate Economics (1/3)
+
+### 1) 주택에 대한 수요의 주요 결정 요인은 인구 통계이다.
+
+#### JMC vs. Correct
+
++ The important factor determining the demand for housing is demographic statistics.
+
++ The main determinant of the demand for housing is demographics.
+
+#### Learning
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | ~의 주요 결정 요인 | The important factor determining | The main determinant of | ★ |
+| 2 | 인구 통계 | demographic statistics | demographics | |
+
+### 2) 핵심 인구 통계학적 변수들로 인구 규모와 증가가 있다.
+
+#### JMC vs. Correct
+
++ The core demographic variables are the scale and the rising of the population.
++ The core demographic variables are population size and growth.
+
+#### Learning
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 인구 규모 | the scale of the population | population size | ★ |
+| 2 | 인구 증가 | the rising of the population | population growth | ★ |
+
+### 3) 다른 요인들로는 가족 규모, 가족의 연령 구성, 자녀 수 그리고 사망률이 포함된다.
+
+#### JMC vs. Correct
+
++ Another variables are family size, family age, the number of children and death rate.
++ Other factors include family size, the age composition of the family, the number of children, and death rates.
+
+#### Learning
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 다른 요인들 | Another variables | Other factors | |
+| 2 | 가족의 연령 구성 | family age | the age composition of the family | ★ |
+| 3 | 사망률 | death rate | death rates | ★ |
+
+### 4) 주택 경제학에서 분석의 단위는 가구이다.
+
+#### JMC vs. Correct
+
++ The unit of analyzing housing economics is a household.
++ In housing economics, the unit of analysis is housholds.
+
+#### Learning
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 주택 경제학에서 분석의 단위 | The unit of analyzing housing econimics | In housing economics, the unit of analysis | ★ |
+| 2 | 분석의 단위 | The unit of analyzing | The unit of analysis | |
+
+### 5) 소득과 주택의 가격 또한 수요에 영향을 미치는 중요한 요인이다.
+
+#### JMC vs. Correct
+
++ Income and the price of housing are also the important factors of the demand.
++ Income and the price of housing are also imprtant factors that influence the demand.
+
+#### Learning
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 수요에 영향을 미치는 중요한 요인 | the important factors of the demand | important factors that influence the dmand | ★ |
+
+### Q. Are you interested in housing economics?
+
+#### Misorang
+
+1. Very much so.
+2. But more so in Austrailia than in Korea.
+3. Because in Austrailia I lived alone or with my brother.
+4. So I took a more active role in finding and investing in real estate whereas in Korea I live with my parents so I take a more of a back seated approach.
+
+(Okay. So right now since you're interested in the Austrailian real estate market, how often do you check the news?)
+
+5. The pricing probably weekly, on a weekly basis, and because my brother is still living in Austrailia and we talk everyday.
+6. So if he sees a significant change in the market, he'll brief me on it.
+
+(What about you?)
+
+#### Eugene
+
+1. @@@ resume
+
+---
+
+## 5. The Most Expensive Gyms in the World (3/3)
 
 ### 1) 애리조나에 위치한 애슬리트 퍼포먼스 헬스장은 1년에 3만 달러 이상이 든다.
 
